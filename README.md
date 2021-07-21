@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/388188781.svg)](https://zenodo.org/badge/latestdoi/388188781)
 ****
 
 Data and R code accompanying:
